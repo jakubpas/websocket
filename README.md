@@ -13,7 +13,6 @@ Websocket Chat is a simple websocket implementation in PHP and javascript. The s
 	php -S localhost:8000 -t web/
 
 4. Using browser, navigate to http://localhost:8000
-}
 ```
 
 ## Motivation

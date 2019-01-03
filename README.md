@@ -33,7 +33,7 @@ The test are yet to be added.
 
 ## Contributors
 
-Jakub Pas <jakubpas@gmail.com> 2015
+(c) 2015 by Jakub Pas
 
 ## License
 
